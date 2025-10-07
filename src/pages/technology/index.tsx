@@ -44,8 +44,8 @@ const Technology = () => {
         />
       </div>
       <Header />
-      <main className="flex lg:justify-end">
-        <article className="flex flex-col gap-[1.5rem] lg:w-[84rem]">
+      <main className="flex  ">
+        <article className="flex flex-col gap-[1.5rem] lg:w-full ">
           <header className="flex gap-[1.5rem] justify-center md:justify-start  pt-28 md:ms-[2.5rem]">
             <h2 className="font-bold opacity-[25%] font-barlow-condensed tracking-[0.15em] text-[1rem]">
               03
